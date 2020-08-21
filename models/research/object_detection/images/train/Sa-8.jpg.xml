@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Train</folder>
+	<filename>Sa-8.jpg.jpg</filename>
+	<path>H:\resizeimage\Train\Sa-8.jpg.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>205</width>
+		<height>246</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Surya</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>95</xmin>
+			<ymin>15</ymin>
+			<xmax>184</xmax>
+			<ymax>118</ymax>
+		</bndbox>
+	</object>
+</annotation>

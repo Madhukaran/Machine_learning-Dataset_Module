@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Train</folder>
+	<filename>A-4.jpg</filename>
+	<path>H:\resizeimage\Train\A-4.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>337</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Akshaya</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>86</xmin>
+			<ymin>92</ymin>
+			<xmax>277</xmax>
+			<ymax>368</ymax>
+		</bndbox>
+	</object>
+</annotation>

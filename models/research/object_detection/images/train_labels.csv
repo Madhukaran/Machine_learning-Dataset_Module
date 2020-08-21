@@ -1,0 +1,81 @@
+filename,width,height,class,xmin,ymin,xmax,ymax
+A-10.jpg,600,599,Akshaya,236,148,400,358
+A-3.jpg,449,600,Akshaya,140,72,381,389
+A-4.jpg,337,600,Akshaya,86,92,277,368
+A-5.jpg,337,600,Akshaya,45,126,278,403
+A-6.jpg,337,600,Akshaya,26,105,265,381
+A-7.jpg,337,600,Akshaya,63,101,285,391
+A-8.jpg,600,600,Akshaya,150,65,432,408
+A-9.jpg,449,600,Akshaya,86,18,395,398
+D-10.jpg,450,600,Dhanalakshmi,1,1,258,359
+D-3.jpg,450,600,Dhanalakshmi,3,8,311,358
+D-4.jpg,450,600,Dhanalakshmi,49,2,359,335
+D-5.jpg,337,600,Dhanalakshmi,1,16,260,370
+D-6.jpg,337,600,Dhanalakshmi,1,5,275,347
+D-7.jpg,337,600,Dhanalakshmi,2,6,221,342
+D-8.jpg,337,600,Dhanalakshmi,1,1,295,370
+D-9.jpg,337,600,Dhanalakshmi,1,11,251,390
+H-10.jpg,599,600,Hema,228,115,434,365
+H-3.jpg,450,600,Hema,126,170,335,474
+H-4.jpg,600,600,Hema,153,65,465,456
+H-5.jpg,600,600,Hema,197,103,485,475
+H-6.jpg,600,600,Hema,155,23,487,466
+H-7.jpg,600,600,Hema,166,128,473,496
+H-8.jpg,373,600,Hema,34,48,355,503
+H-9.jpg,584,600,Hema,133,43,436,408
+M-10.jpg,449,600,Mohan,50,93,277,440
+M-3.jpg,600,337,Mohan,151,19,331,260
+M-4.jpg,450,600,Mohan,156,123,333,414
+M-5.jpg,413,531,Mohan,87,41,357,368
+M-6.jpg,337,600,Mohan,45,53,288,365
+M-7.jpg,450,600,Mohan,93,44,339,405
+M-8.jpg,450,600,Mohan,159,88,351,418
+M-9.jpg,449,600,Mohan,143,99,379,454
+MD-1.jpg.jpg,300,168,Dhoni,152,1,241,105
+MD-4.jpg.jpg,194,259,Dhoni,52,5,190,207
+MD-5.jpg.jpg,300,168,Dhoni,71,5,166,109
+MD-6.jpg.jpg,284,177,Dhoni,112,1,173,73
+MD-7.jpg.jpg,194,259,Dhoni,77,11,170,138
+MD-8.jpg.jpg,600,541,Dhoni,213,7,424,321
+MD-9.jpg.jpg,206,245,Dhoni,84,5,138,52
+MD10.jpg.jpg,201,251,Dhoni,83,7,166,106
+Mk-10.jpg,337,600,Madhukaran,23,165,275,452
+Mk-3.jpg,390,600,Madhukaran,2,1,390,550
+Mk-4.jpg,522,600,Madhukaran,41,11,522,535
+Mk-5.jpg,442,600,Madhukaran,91,15,436,458
+Mk-6.jpg,598,600,Madhukaran,169,32,343,196
+Mk-7.jpg,337,600,Madhukaran,18,158,271,492
+Mk-8.jpg,481,600,Madhukaran,123,76,390,468
+Mk-9.jpg,410,600,Madhukaran,136,28,410,371
+R-10.jpg,525,600,Ramya,143,2,421,472
+R-3.jpg,600,600,Ramya,147,11,517,446
+R-4.jpg,450,600,Ramya,131,15,377,416
+R-5.jpg,450,600,Ramya,165,132,369,418
+R-6.jpg,600,450,Ramya,289,32,514,323
+R-7.jpg,450,600,Ramya,122,84,411,466
+R-8.jpg,509,600,Ramya,191,4,486,411
+R-9.jpg,600,450,Ramya,151,2,457,320
+S-10.jpg,450,600,Sheik zaidh,84,58,362,413
+S-3.jpg,450,600,Sheik zaidh,75,100,348,474
+S-4.jpg,450,600,Sheik zaidh,65,35,361,435
+S-5.jpg,450,600,Sheik zaidh,54,43,348,444
+S-6.jpg,600,600,Sheik zaidh,125,11,438,423
+S-7.jpg,600,460,Sheik zaidh,250,89,404,286
+S-8.jpg,445,600,Sheik zaidh,122,128,338,452
+S-9.jpg,450,600,Sheik zaidh,73,1,359,456
+Sa-10.jpg.jpg,186,270,Surya,33,3,105,111
+Sa-3.jpg.jpg,183,275,Surya,11,1,137,150
+Sa-4.jpg.jpg,310,163,Surya,107,3,213,142
+Sa-5.jpg.jpg,194,259,Surya,62,1,132,98
+Sa-6.jpg.jpg,183,275,Surya,35,11,142,184
+Sa-7.jpg.jpg,194,259,Surya,30,9,173,199
+Sa-8.jpg.jpg,205,246,Surya,95,15,184,118
+Sa-9.jpg.jpg,183,275,Surya,56,28,122,115
+V-10.jpg.jpg,225,225,Vijay,60,2,153,136
+V-3.jpg.jpg,187,270,Vijay,31,63,85,145
+V-4.jpg.jpg,183,275,Vijay,27,5,168,203
+V-5.jpg.jpg,194,259,Vijay,92,8,160,108
+V-6.jpg.jpg,194,259,Vijay,1,1,194,213
+V-7.jpg.jpg,194,259,Vijay,36,2,144,154
+V-8.jpg.jpg,259,194,Vijay,78,2,191,144
+V-9.jpg.jpg,194,259,Vijay,45,4,139,136

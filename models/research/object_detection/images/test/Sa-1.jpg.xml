@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Test</folder>
+	<filename>Sa-1.jpg.jpg</filename>
+	<path>H:\resizeimage\Test\Sa-1.jpg.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>183</width>
+		<height>275</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Surya</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>24</xmin>
+			<ymin>3</ymin>
+			<xmax>142</xmax>
+			<ymax>177</ymax>
+		</bndbox>
+	</object>
+</annotation>

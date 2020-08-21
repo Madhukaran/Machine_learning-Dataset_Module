@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Train</folder>
+	<filename>H-8.jpg</filename>
+	<path>H:\resizeimage\Train\H-8.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>373</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Hema</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>34</xmin>
+			<ymin>48</ymin>
+			<xmax>355</xmax>
+			<ymax>503</ymax>
+		</bndbox>
+	</object>
+</annotation>

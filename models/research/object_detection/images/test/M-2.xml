@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Test</folder>
+	<filename>M-2.jpg</filename>
+	<path>H:\resizeimage\Test\M-2.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>548</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Mohan</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>164</xmin>
+			<ymin>26</ymin>
+			<xmax>460</xmax>
+			<ymax>485</ymax>
+		</bndbox>
+	</object>
+</annotation>

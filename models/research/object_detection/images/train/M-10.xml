@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Train</folder>
+	<filename>M-10.jpg</filename>
+	<path>H:\resizeimage\Train\M-10.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>449</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Mohan</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>50</xmin>
+			<ymin>93</ymin>
+			<xmax>277</xmax>
+			<ymax>440</ymax>
+		</bndbox>
+	</object>
+</annotation>
