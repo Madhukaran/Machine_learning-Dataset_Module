@@ -1,50 +1,29 @@
 item {
   id: 1
-  name: 'Akshaya'
+  name: 'gun'
 }
 
 item {
   id: 2
-  name: 'Dhanalakshmi'
+  name: 'car'
 }
 
 item {
   id: 3
-  name: 'Hema'
+  name: 'phone'
 }
 
 item {
   id: 4
-  name: 'Mohan'
+  name: 'knife'
 }
 
 item {
   id: 5
-  name: 'Dhoni'
+  name: 'wearing_mask'
 }
 
 item {
   id: 6
-  name: 'Madhukaran'
+  name: 'ring'
 }
-
-item {
-  id: 7
-  name: 'Ramya'
-}
-
-item {
-  id: 8
-  name: 'Sheik_zaidh'
-}
-
-item {
-  id: 9
-  name: 'Surya'
-}
-
-item {
-  id: 10
-  name: 'Vijay'
-}
-
