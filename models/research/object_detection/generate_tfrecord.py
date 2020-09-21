@@ -36,9 +36,9 @@ def class_text_to_int(row_label):
         return 3
     elif row_label == 'knife':
         return 4
-    elif row_label == 'wearing_mask':
+    elif row_label == 'car':
         return 5
-    elif row_label == 'ring':
+    elif row_label == 'scissor':
         return 6
     else:
         return 0
