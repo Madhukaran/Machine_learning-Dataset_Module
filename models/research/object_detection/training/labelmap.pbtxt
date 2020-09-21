@@ -20,10 +20,10 @@ item {
 
 item {
   id: 5
-  name: 'wearing_mask'
+  name: 'car'
 }
 
 item {
   id: 6
-  name: 'ring'
+  name: 'scissor'
 }
